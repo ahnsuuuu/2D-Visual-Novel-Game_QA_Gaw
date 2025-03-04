@@ -58,7 +58,7 @@ label scene3_okay:
     show kokoro sad at center with dissolve 
     pause 1.5
     show kokoro excited at center
-    kokoro "Oh... I see. Well, let's enjoy the anyway park!"
+    kokoro "Oh... I see. Well, let's enjoy the park!"
     jump scene4_alternate
 
 label scene4:
